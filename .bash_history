@@ -41,3 +41,17 @@ sudo chmod +x ~/example_upload.py
 ./example_upload.py
 ls
 exit
+ls
+nano ~/report_email.py
+tree ./
+nano ~/report_email.py
+sudo chmod +x ~/report_email.py
+nano ~/emails.py
+ls
+ls --help
+ls -F py
+ls *.py
+tree
+ls
+nano ~/reports.py
+git sttuggggggggjjexit
